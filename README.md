@@ -2,6 +2,6 @@
 
 # [3D飛機過圈](https://github.com/nohano1l/gamedesign/tree/master/3D_flyinring)
 
-# [ar切水果](https://github.com/nohano1l/gamedesign/tree/master/AR/fruitnija)
+# [AR切水果](https://github.com/nohano1l/gamedesign/tree/master/AR/fruitnija)
 
 # [農夫障礙賽跑](https://github.com/nohano1l/gamedesign/tree/master/obstaclerun)
