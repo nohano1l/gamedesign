@@ -5,3 +5,5 @@
 ![開始畫面](https://github.com/nohano1l/gamedesign/blob/master/2D_catdogwar/img/startview.png)
 
 ![遊戲畫面](https://github.com/nohano1l/gamedesign/blob/master/2D_catdogwar/img/gameview.png)
+
+![結束畫面](https://github.com/nohano1l/gamedesign/blob/master/2D_catdogwar/img/gameover.png)
