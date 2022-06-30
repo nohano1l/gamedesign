@@ -5,3 +5,4 @@
 ![遊戲畫面](https://github.com/nohano1l/gamedesign/blob/master/3D_flyinring/img/gameview.png)
 
 ![結束畫面](https://github.com/nohano1l/gamedesign/blob/master/3D_flyinring/img/gameover.png)
+## [電腦版安裝](https://drive.google.com/file/d/1E3EKzU8X2Pmn5uFAZXdqFboOKHxgVQMm/view?usp=sharing)

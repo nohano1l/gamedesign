@@ -7,3 +7,4 @@
 ![遊戲畫面](https://github.com/nohano1l/gamedesign/blob/master/2D_catdogwar/img/gameview.png)
 
 ![結束畫面](https://github.com/nohano1l/gamedesign/blob/master/2D_catdogwar/img/gameover.png)
+## [電腦版安裝](https://drive.google.com/file/d/1wrH0X3snYYSYgvuzFwRydYXvh8Vih8lm/view?usp=sharing)
