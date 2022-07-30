@@ -14,6 +14,5 @@
 ## [電腦版安裝](https://drive.google.com/file/d/1J9p44Lewb1A1IxOsMoiCkPmVfKm3jmIF/view?usp=sharing)
 ## [Andriod版安裝](https://drive.google.com/file/d/1hOYIANWOLdge0zaCmesvsNAN3xD2CXS2/view?usp=sharing)
 ## 參考資料
-[教學資源](https://learn.unity.com/project/ruby-s-2d-rpg)
-
-[資源包](https://assetstore.unity.com/packages/templates/tutorials/2d-beginner-tutorial-resources-140167)
+### [教學資源](https://learn.unity.com/project/ruby-s-2d-rpg)
+### [資源包](https://assetstore.unity.com/packages/templates/tutorials/2d-beginner-tutorial-resources-140167)
